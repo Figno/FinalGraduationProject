@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3883F7</color>
+    <color name="colorPrimaryDark">#3883F7</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="title_color">#3A82F8</color>
+    <color name="title_color_pay">#686868</color>
+    <color name="bg_color">#F2F2F2</color>
+
+    <color name="text_gray_9">#BBBBBB</color>
+    <color name="text_gray_6">#888888</color>
+    <color name="text_black">#000000</color>
+    <color name="text_gray_3">#333333</color>
+    <color name="DDDDDD">#DDDDDD</color>
+    <color name="blue">#3883F7</color>
+    <color name="button_text_disable">#98BDF4</color>
+    <color name="red">#EB4E3D</color>
+    <color name="yellow">#F0C43F</color>
+    <color name="green">#06BC07</color>
+    <color name="E3E3E3">#E3E3E3</color>
+    <color name="orange">#F4BC41</color>
+
+    <color name="white_8p">#14FFFFFF</color>
+    <color name="white_16p">#29FFFFFF</color>
+    <color name="white_24p">#3DFFFFFF</color>
+    <color name="white_50p">#80FFFFFF</color>
+    <color name="white_96p">#F5FFFFFF</color>
+    <color name="black">@android:color/black</color>
+    <color name="black_50p">#80000000</color>
+    <color name="red_30p">#4CF44336</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="grey_50p">#809E9E9E</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_700_96p">#F5616161</color>
+    <color name="grey_300_96p">#F5E0E0E0</color>
+    <color name="grey_900">#212121</color>
+    <color name="grey_900_96p">#F5212121</color>
+
+    <color name="rippleColor">#C0362E</color>
+</resources>

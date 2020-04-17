@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/lv_collection_music"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="0.5dp"
+        >
+
+    </ListView>
+
+
+    <TextView
+        android:id="@+id/tv_noData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="暂无收藏~~"
+        android:textSize="@dimen/text_size_14"
+        android:textColor="@color/text_gray_6"
+        android:visibility="gone"
+        />
+
+</LinearLayout>
